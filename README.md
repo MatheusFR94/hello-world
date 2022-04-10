@@ -1,5 +1,7 @@
 # hello-world
 
-Meu primeiro repositório no Github
+My first repository on Github
 
-Análise de dados aí vou eu 💻
+👋🏼 Hi, I'm Matheus
+👀 I'm interested in Data Analytics / Business Intelligence
+🌱 I'm currently learning Python / SQL / Power BI / Tableau
