@@ -1,5 +1,5 @@
 # hello-world
 
-Meu primeiro repositório no Github
+My first repository on Github
 
-Análise de dados aí vou eu 💻
+Data analysis here I go 💻
